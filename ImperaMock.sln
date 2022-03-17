@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImperaMock", "ImperaMock\ImperaMock.csproj", "{C10A051B-D2CD-444D-93DE-CF440A45295B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{4953B181-105E-48AE-9AFA-6667B2350A83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C10A051B-D2CD-444D-93DE-CF440A45295B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C10A051B-D2CD-444D-93DE-CF440A45295B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C10A051B-D2CD-444D-93DE-CF440A45295B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C10A051B-D2CD-444D-93DE-CF440A45295B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4953B181-105E-48AE-9AFA-6667B2350A83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4953B181-105E-48AE-9AFA-6667B2350A83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4953B181-105E-48AE-9AFA-6667B2350A83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4953B181-105E-48AE-9AFA-6667B2350A83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17B31A96-D5FD-4C9B-9B6B-68E15293EE30}
+	EndGlobalSection
+EndGlobal
